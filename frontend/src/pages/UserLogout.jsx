@@ -19,8 +19,8 @@ export const UserLogout = () => {
     })
 
     return (
-      <div>UserLogout</div>
-  )
+        <div>UserLogout</div>
+    )
 }
 
 export default UserLogout
